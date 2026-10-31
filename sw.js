@@ -1,6 +1,6 @@
 /* Service worker: guarda o arquivo no aparelho para funcionar sem internet.
    Ao publicar uma versão nova do index.html, troque o número abaixo. */
-const VERSAO = "ljp-v14";
+const VERSAO = "ljp-v16";
 const ARQUIVOS = ["./", "./index.html", "./manifest.webmanifest",
   "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png",
   "./apple-touch-icon.png", "./favicon-32.png"];
